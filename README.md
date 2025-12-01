@@ -31,12 +31,10 @@ A high-fidelity, responsive mobile-first clone of the Blue Bank application inte
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blue-bank-clone.git
+   git clone https://github.com/MAminKhodaei/ExamTask.git
    ```
 2. Navigate to the project directory:
-   ```bash
-   cd blue-bank-clone
-   ```
+  
 3. Install dependencies:
    ```bash
    npm install
